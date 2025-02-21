@@ -1,1 +1,2 @@
 # retailer-website
+This e-commerce project enables customers to purchase clothing items from my storefront seamlessly. It features a shopping cart that accurately calculates the effects of purchasing decisions, such as buying multiple items or removing them. All data about the apparel and cart is stored in a manipulatable database. Upon a successful purchase, a confirmation email is sent to the customer.
